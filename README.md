@@ -1,11 +1,8 @@
-<!-- # Campus La Vie
+<!-- # College-Daze
 
 ## What is this?
-Campus La Vie is a replica of a students life at IIT Guwahati. In this replica, students was asked about the vital decisions, a student needs to take during his/her stay at IIT Guwahati.
+College-Daze is a replica of a students life at IIT Guwahati. In this replica, students was asked about the vital decisions, a student needs to take during his/her stay at IIT Guwahati.
 A student needs to pass through four examinations - Kenken, Mastermind, Crypto Puzzle and Mystery Room. In order to step story line up, we used story of an average IITian to form basis of game.  
-
-## Why did we build this?
-Campus La Vie was built for the [**Mains Event of Technothlon'20**](https://technothlon.techniche.org.in/mains) as a test for the ability of the young champs from all over India. 
 
 ## What did we build this with?
 ![Alt-text](https://i.ibb.co/N7wb0Gc/Untitled-design-1.png)
@@ -19,23 +16,23 @@ We used JavaScript, along with basic HTML and CSS, for the front-end and Django 
 
 
 ## Contributors
-This game was developed by [Shridam Mahajan](https://github.com/shridam1207),  [Abhay Kandhve](https://github.com/KANDHVE950) ,[Tushar Bajaj](https://github.com/bajajtushar094), [Sushant Reddy Manda](https://github.com/SushanthReddyManda), [Shrusti Jain](https://github.com/debug-shush),
+This game was developed by [Yash Kumawat](https://github.com/yash2908),  [Durgansh Mishra](https://github.com/durganshmishra333)
 <br> 
  
   -->
-<!-- ### CAMPUS LA VIE -->
+<!-- ### COLLEGE DAZE -->
 <h1 align="left">
   <br>
     <img src="https://pbs.twimg.com/profile_images/413030425611620352/9um18M3a_400x400.png" align="right" width="10%" height="10%" >
   <br>
-  Campus La Vie
+  College-Daze
 </h1>
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/MLH-Fellowship/Auto-Tagger.svg)](https://github.com/bajajtushar094/Campus-La-Vie/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/MLH-Fellowship/Auto-Tagger.svg)](https://github.com/bajajtushar094/Campus-La-Vie/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/MLH-Fellowship/Auto-Tagger.svg)](https://github.com/yash2908/College-Daze/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/MLH-Fellowship/Auto-Tagger.svg)](https://github.com/yash2908/College-Daze/pulls)
 
-<h4 align="left">Campus La Vie is a replica of a students life at IIT Guwahati. In this replica, students was asked about the vital decisions, a student needs to take during his/her stay at IIT Guwahati.A student needs to pass through four examinations - Kenken, Mastermind, Crypto Puzzle and Mystery Room. In order to step story line up, we used story of an average IITian to form basis of game.  
+<h4 align="left">College-Daze is a replica of a students life at IIT Guwahati. In this replica, students was asked about the vital decisions, a student needs to take during his/her stay at IIT Guwahati.A student needs to pass through four examinations - Kenken, Mastermind, Crypto Puzzle and Mystery Room. In order to step story line up, we used story of an average IITian to form basis of game.  
 <br><br>
 This repo contains:</h4>
 
@@ -98,7 +95,7 @@ The following is a high-level overview of relevant files and folders.
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/bajajtushar094/Campus-La-Vie`
+- Clone this repo to your local machine using `https://github.com/yash2908/College-Daze`
 
 ### Steps to run the project
 
@@ -119,5 +116,5 @@ In order to install all packages follow the steps below:
 
 -------
 ## Developers
-This game was developed by [Shridam Mahajan](https://github.com/shridam1207),  [Abhay Kandhve](https://github.com/KANDHVE950) ,[Tushar Bajaj](https://github.com/bajajtushar094), [Sushant Reddy Manda](https://github.com/SushanthReddyManda), [Shrusti Jain](https://github.com/debug-shush),
+This game was developed by [Yash Kumawat](https://github.com/yash2908),  [Durgansh Mishra](https://github.com/durganshmishra333) ,
 
